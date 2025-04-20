@@ -4,6 +4,17 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Front-End+Developer+%7C+React+%7C+Next.js;2.8%2B+Years+Experience+%F0%9F%9A%80;Writing+Clean+%26+Scalable+Code" alt="Typing SVG" />
 </h1>
 
+<p align="center">
+  <a href="https://linkedin.com/in/pruthvi-kumar-p24"><img src="https://img.shields.io/badge/LinkedIn-PruthviKumarP24-blue?logo=linkedin"></a>
+  <a href="https://github.com/PruthviKumarP"><img src="https://img.shields.io/badge/GitHub-PruthviKumarP-181717?logo=github"></a>
+  <a href="mailto:pruthvikumar.p24@gmail.com"><img src="https://img.shields.io/badge/Email-pruthvikumar.p24%40gmail.com-red?logo=gmail"></a>
+  <a href="https://read.cv/pruthvikumarp"><img src="https://img.shields.io/badge/Portfolio-Read.cv-%230a0a0a?logo=react"></a>
+</p>
+
+---
+
+## 🌟 About Me
+
 🚀 Front-End Developer with **2.8+ years** of professional experience in building **high-performance, SEO-friendly, and scalable** web apps using:
 
 - **React.js | Next.js | Angular**
@@ -72,12 +83,23 @@
 
 ---
 
-## 📫 Let's Connect  
-  <a href="https://linkedin.com/in/pruthvi-kumar-p24"><img src="https://img.shields.io/badge/LinkedIn-PruthviKumarP24-blue?logo=linkedin"></a>
-  <a href="https://github.com/PruthviKumarP"><img src="https://img.shields.io/badge/GitHub-PruthviKumarP-181717?logo=github"></a>
-  <a href="mailto:pruthvikumar.p24@gmail.com"><img src="https://img.shields.io/badge/Email-pruthvikumar.p24%40gmail.com-red?logo=gmail"></a>
-  
+## 📊 GitHub Stats
 
-<p align="center"> 
-Thanks for visiting! Don't forget to ⭐️ my work!
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PruthviKumarP&show_icons=true&theme=radical" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PruthviKumarP&layout=compact&theme=radical" height="180" />
+</p>
+
+---
+
+## 📫 Let's Connect
+
+📍 Currently open to **Frontend roles** (Remote / Europe / Canada preferred)  
+📬 Reach me: **pruthvikumar.p24@gmail.com**
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
+  Thanks for visiting! Don't forget to ⭐️ my work!
 </p>
