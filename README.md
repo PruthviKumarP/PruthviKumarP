@@ -86,8 +86,6 @@
 ## 📫 Let's Connect
 📬 Reach me: **pruthvikumar.p24@gmail.com**
 
----
-
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
   Thanks for visiting! Don't forget to ⭐️ my work!
