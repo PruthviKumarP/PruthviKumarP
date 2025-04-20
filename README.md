@@ -1,10 +1,5 @@
 # Pruthvi Kumar P | Front-End Developer
 
-<!-- Animated Header Icon -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/PruthvikumarP/PruthvikumarP/main/assets/react-icon.svg" alt="React" width="100" height="100" />
-</div>
-
 👋 **Hello World!** I'm a **Front-End Developer** specializing in React/Next.js and Angular. Passionate about building performant, SEO-friendly web apps. Open to opportunities in **Europe/North America/Australia**!  
 
 ---
