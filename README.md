@@ -8,7 +8,6 @@
   <a href="https://linkedin.com/in/pruthvi-kumar-p24"><img src="https://img.shields.io/badge/LinkedIn-PruthviKumarP24-blue?logo=linkedin"></a>
   <a href="https://github.com/PruthviKumarP"><img src="https://img.shields.io/badge/GitHub-PruthviKumarP-181717?logo=github"></a>
   <a href="mailto:pruthvikumar.p24@gmail.com"><img src="https://img.shields.io/badge/Email-pruthvikumar.p24%40gmail.com-red?logo=gmail"></a>
-  <a href="https://read.cv/pruthvikumarp"><img src="https://img.shields.io/badge/Portfolio-Read.cv-%230a0a0a?logo=react"></a>
 </p>
 
 ---
@@ -20,14 +19,21 @@
 ✅ **Cross-Browser & SEO**: Built apps compliant with WCAG 2.1 and Core Web Vitals.  
 ✅ **Global Collaboration**: Worked in Agile/Scrum teams with designers, PMs, and stakeholders.  
 
-**Tech Stack**:  
+--
+
+
+## 🛠️ Tech Stack
+
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square)
 ![Next.js](https://img.shields.io/badge/-Next.js-black?logo=next.js&style=flat-square)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=flat-square)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css&logoColor=white&style=flat-square)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=flat-square)
 ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?logo=storybook&logoColor=white&style=flat-square)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
 
+---
 ---
 
 ## 💼 Global-Relevant Experience
