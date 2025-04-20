@@ -58,7 +58,7 @@
 - Integrated AI Safetycam driver monitoring & driver reward system etc.
 
 **Azuga UI Revamp**  
-- Modernized UI with Next.js + Tailwind, boosting user engagement by **40%**.  
+- Modernized UI with Next.js + React Storybook (Resuable Library), boosting user engagement by **40%**.  
 
 ---
 
