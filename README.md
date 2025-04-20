@@ -6,7 +6,6 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/pruthvi-kumar-p24"><img src="https://img.shields.io/badge/LinkedIn-PruthviKumarP24-blue?logo=linkedin"></a>
-  <a href="https://github.com/PruthviKumarP"><img src="https://img.shields.io/badge/GitHub-PruthviKumarP-181717?logo=github"></a>
   <a href="mailto:pruthvikumar.p24@gmail.com"><img src="https://img.shields.io/badge/Email-pruthvikumar.p24%40gmail.com-red?logo=gmail"></a>
 </p>
 
