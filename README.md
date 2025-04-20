@@ -83,18 +83,7 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PruthviKumarP&show_icons=true&theme=radical" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PruthviKumarP&layout=compact&theme=radical" height="180" />
-</p>
-
----
-
 ## 📫 Let's Connect
-
-📍 Currently open to **Frontend roles** (Remote / Europe / Canada preferred)  
 📬 Reach me: **pruthvikumar.p24@gmail.com**
 
 ---
