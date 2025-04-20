@@ -11,13 +11,23 @@
 
 ---
 
-## 🌟 International-Ready Front-End Developer
+## 🌟 About Me
 
-🚀 **2.8+ years** of experience building **global-scale web apps** with modern stacks. Key strengths:  
-✅ **Performance Optimization**: Reduced page load times by **40%** at Azuga.  
-✅ **Cross-Browser & SEO**: Built apps compliant with WCAG 2.1 and Core Web Vitals.  
-✅ **Global Collaboration**: Worked in Agile/Scrum teams with designers, PMs, and stakeholders.  
+🚀 Front-End Developer with **2.8+ years** of professional experience in building **high-performance, SEO-friendly, and scalable** web apps using:
 
+- **React.js | Next.js | Angular**
+- **TypeScript | JavaScript (ES6+)**
+- **Tailwind CSS | SCSS | Styled Components**
+- **Redux | NgRx | RxJS**
+
+🛠️ Also familiar with:
+
+- RESTful API Integration
+- Monorepos with TurboRepo
+- Agile/Scrum workflows
+- Building design systems (React Storybook)
+
+🎯 I love building **pixel-perfect UIs**, reusable components, and seamless user experiences that scale beautifully.
 --
 
 
